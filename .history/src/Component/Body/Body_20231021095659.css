@@ -1,0 +1,9 @@
+.girl-bg {
+    background-image: url(../../../bg-image-8.webp);
+    padding: 20em;
+    background-attachment: fixed;
+    background-size: cover;
+    width: 100%;
+    background-position: center;
+    margin-bottom: 5rem;
+}

@@ -1,0 +1,14 @@
+.img-footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-bottom: 2rem;
+}
+
+.text-footer {
+    color: #ddd;
+}
+
+.text-footer a:hover {
+    color: #f8024e;
+}

@@ -1,0 +1,11 @@
+.title-portfolio h2 {
+    font-size: 5rem;
+    color: #ddd;
+    font-weight: bold;
+    letter-spacing: 6px;
+}
+
+.title-portfolio h5 {
+    font-size: 1rem;
+    letter-spacing: 5px;
+}

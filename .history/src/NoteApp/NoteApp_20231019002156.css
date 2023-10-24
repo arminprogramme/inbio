@@ -1,0 +1,12 @@
+input {
+    outline: 0;
+    border: 1px solid #ddd;
+}
+
+.color-box {
+    border: 2px solid #ddd;
+}
+
+.note-item {
+    border: 1px solid #ddd;
+}

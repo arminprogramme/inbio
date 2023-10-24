@@ -1,0 +1,20 @@
+.icon-services i {
+    font-size: 3rem;
+}
+
+.red-color {
+    color: #f8024e;
+}
+
+.content-services {
+    padding: 1.2rem 0;
+    color: #FDFDFE;
+}
+
+.content-services h2 {
+    font-size: 2rem;
+}
+
+.content-services p {
+    line-height: 1rem;
+}

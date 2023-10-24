@@ -1,0 +1,6 @@
+.img-form {
+    padding: 3rem;
+    border-radius: 50px;
+    background: linear-gradient(145deg, #2a2a33, #23232b);
+    box-shadow: 10px 10px 40px #16161b, -10px -10px 40px #383845;
+}

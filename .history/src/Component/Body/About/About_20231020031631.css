@@ -1,0 +1,8 @@
+.inner-img-about,
+.img-about {
+    max-width: 500px;
+}
+
+.inner-img-about img {
+    width: 100%;
+}

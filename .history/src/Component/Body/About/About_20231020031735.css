@@ -1,0 +1,14 @@
+.inner-img-about,
+.img-about {
+    padding: 0.5rem;
+    border-radius: 5px;
+    max-width: 100%;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -o-border-radius: 5px;
+}
+
+.inner-img-about img {
+    width: 100%;
+}

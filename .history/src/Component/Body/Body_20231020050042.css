@@ -1,0 +1,11 @@
+.limit-width {
+    max-width: 1450px;
+    padding: 6rem 0;
+    margin: auto;
+}
+
+.girl-bg {
+    background-image: url(../../../bg-image-8.webp);
+    padding: 20em;
+    background-attachment: fixed;
+}
